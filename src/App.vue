@@ -23,7 +23,7 @@
   import DoughnutChart from './components/DoughnutChart.vue'
   import MixtypeChart from './components/MixtypeChart.vue'
   import ScatterChart from './components/ScatterChart.vue'
-  import PolarAreaChart from './components/PorlarAreaChart.vue'
+  import PolarAreaChart from './components/PolarAreaChart.vue'
 
 
   export default {
